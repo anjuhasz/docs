@@ -1,2 +1,2 @@
 # docs
-Storage for document
+Storage for documents
