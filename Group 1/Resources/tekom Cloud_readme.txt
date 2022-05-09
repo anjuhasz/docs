@@ -1,0 +1,3 @@
+﻿A tekom Cloud egy kollaborációs platform, ami a Nextcloud nyílt forráskódú fájlmegosztó és együttműködési eszközre épül. Az alkalmazás kliens böngészőn keresztül és letölthető applikációval is elérhető. Biztonságos és megfelelő szintű fájltárolási, -szinkronizálási és -megosztási megoldást kínál
+Web UI belépés: bármilyen webböngészővel csatlakozhat a tekom Cloud szerveréhez, ha először a szerver URL-t megadja, utána pedig a felhasználónevét és jelszavát
+Alapértelmezés szerint a tekom Cloud webes felülete az irányítópulton (ún. Dashboard) nyílik meg.
